@@ -5,6 +5,6 @@ else:
     print('Nope! you can\'t make it!!')
 """
 the condition of making triangle is that the sum of 2 sides 
-are bigger than the one another!
+are bigger than the other one!
 
 """
